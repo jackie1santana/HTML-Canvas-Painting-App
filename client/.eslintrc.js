@@ -33,5 +33,9 @@ module.exports = {
     'no-shadow': 'off',
     '@typescript-eslint/no-unused-vars': 'warn',
     'no-debugger': 'off',
+    'prefer-const': 'off',
+    'no-return-assign': 'off',
+    'max-len': 'off',
+    'no-plusplus': 'off',
   },
 };
